@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "OpenSSL",
+    name: brendenpatrickDrosod
     platforms: [
         .iOS(.v12),
         .macOS(.v10_15),
